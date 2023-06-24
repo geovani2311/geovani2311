@@ -1,5 +1,5 @@
 <div>
-  <h1>Olá 😎👨‍💻</h1>
+  <h1>Olá, eu me chamo Geovani 😎👨‍💻</h1>
   <h2>redes sociais</h2>
   <a href="https://www.linkedin.com/in/geovani-lima-cardoso-760212158/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <h2>skill's</h2>
