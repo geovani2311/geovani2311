@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge">
   <img src="https://img.shields.io/badge/Qlik-green?style=for-the-badge&logo=Qlik">
   <img src="https://img.shields.io/badge/Tableau-white?style=for-the-badge&logo=Tableau">
+  <img src="https://img.shields.io/badge/Metabase-white?style=for-the-badge&logo=Metabase">
 </p>
 
 <p align="center">
