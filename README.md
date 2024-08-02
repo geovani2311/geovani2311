@@ -6,7 +6,6 @@
 <p align="center">  
   <a href="https://www.linkedin.com/in/geovani-lima-cardoso-760212158/" target="_blank"><img src="https://img.shields.io/badge/linkedin-blue?logo=linkedin&logoColor=White" target="_blank"></a>  
   <a href="https://www.youtube.com/channel/UCe5tUK2qlAHSzJaovHX1Rww" target="_blank"><img src="https://img.shields.io/badge/youtube-red?logo=youtube&logoColor=White" target="_blank"></a>
-  <a href="geovani.cardoso1@outlook.com" target="_blank"><img src="https://img.shields.io/badge/email-red" target="_blank"></a>
   <a href="https://drive.google.com/file/d/1tV9xIqJ5XHvYikoYjeTNWIyc-56lOGv5/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/CV-PDF-red?logo=adobe&logoColor=White&cacheSeconds=%3Csvg%20role%3D%22img%22%20viewBox%3D%220%200%2024%2024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Ctitle%3EAdobe%3C%2Ftitle%3E%3Cpath%20d%3D%22M13.966%2022.624l-1.69-4.281H8.122l3.892-9.144%205.662%2013.425zM8.884%201.376H0v21.248zm15.116%200h-8.884L24%2022.624Z%22%2F%3E%3C%2Fsvg%3E" target="_blank"></a>
 </p>
 
