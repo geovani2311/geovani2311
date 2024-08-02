@@ -12,28 +12,25 @@
 <br>
 
 <p align="center">  
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=00F79A&center=true&vCenter=true&multiline=true&width=435&lines=Skill's;" alt="Typing SVG" /></a>
+  Skill's
 </p>
 
 <p align="center">
-        <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-        <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
-        <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+        <img src="https://img.shields.io/badge/Sheets/Excel-white?style=for-the-badge&logo=Google%20Sheets">
 </p>
+
 <p align="center">
-        <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
-        <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-gray?style=for-the-badge&logo=PostgreSQL">
+  <img src="https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=Oracle">
+  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=Python&logoColor=yellow&color=%233776AB">
 </p>
+
 <p align="center">
-        <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-        <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
-        <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
-        <img src="https://img.shields.io/badge/Flask-FFFFFF?style=for-the-badge&logo=flask&logoColor=black">
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white">
+  <img src="https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Qlik-green?style=for-the-badge&logo=Qlik">
+  <img src="https://img.shields.io/badge/Tableau-white?style=for-the-badge&logo=Tableau">
 </p>
+
 <p align="center">
-        <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-        <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
-        <img src="https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black">
+  <img src="https://img.shields.io/badge/Alteryx-blue?style=for-the-badge">
 </p>
