@@ -23,10 +23,11 @@
   <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=Python&logoColor=yellow&color=%233776AB">
   <img src="https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge">
   <img src="https://img.shields.io/badge/Qlik-green?style=for-the-badge&logo=Qlik">
+</p>
+<p align="left">
   <img src="https://img.shields.io/badge/Tableau-white?style=for-the-badge&logo=Tableau">
   <img src="https://img.shields.io/badge/Metabase-white?style=for-the-badge&logo=Metabase">
   <img src="https://img.shields.io/badge/Alteryx-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Sheets/Excel-white?style=for-the-badge&logo=Google%20Sheets">
 </p>
-
 
