@@ -9,10 +9,13 @@
 ##
 <h3>About Me</h3>
 <p align="left">  
-- 💼 Business intelligence Analyst at Oliver Latin America
+- 👩🏻‍💻 Business intelligence Analyst at Oliver Latin America
 </p>
 <p align="left">  
-- 👩‍💻 Postgraduate Student in Artificial Intelligence at Senac University
+- 🤖 Postgraduate Student in Artificial Intelligence at Senac University
+</p>
+<p align="left">  
+- ▶️ IA content and studies on YouTube - youtube.com/@noob_dos_dados
 </p>
 
 ##
